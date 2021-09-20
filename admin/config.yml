@@ -2,7 +2,7 @@ backend:
   name: github
   repo: tomstanier/MyRepository # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: http://novatype.netlify.app #Your site on netlify
+  site_domain: novatype.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
