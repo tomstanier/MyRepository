@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://novatype.netlify.app"    #change this to yours
+url: "http://novatype.netlify.app"    # change this to yours
 repository: tomstanier/MyRepository
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
