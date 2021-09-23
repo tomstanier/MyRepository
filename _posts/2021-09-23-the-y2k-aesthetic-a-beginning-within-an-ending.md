@@ -17,12 +17,6 @@ For the world at large, the year 2000 brought promise, yet equally, fear. Whilst
 
 Sleek designs were one of the key goals of the Y2K aesthetic, reflected heavily within architecture; curves and spherical features were admired and seen as a sign of modernity and clarity. The same applied to typography, bubble-like and curved fonts became all the rage making a permanent impact upon popular culture. It only takes a brief look at popular products to see where this influence remains. The PS4, for example, is recognisable by its sleek, curved logo that stems back to the year 2000, upon the release of the PS2. Slight changes have been made, from a more robotic, rigid look for the PS2, to a more flexible curved logo for the PS4, but overall the core of the logo has remained largely, the same. Here we have an example of a style that has stood the test of time. Despite the fact that two decades have passed since then, the futuristic element of the font still speaks to both consumers and creators. Y2K inspired Futurism will always have a place in forward-thinking companies, especially those within such a technological field as the video-game industry.
 
-
-
-![The sleek, futuristic logo for Sony's PS4 console.](https://www.nicepng.com/png/full/6-67562_playstation-4-logo-ps4-logo-playstation-4-logo.png "The sleek, futuristic logo for Sony's PS4 console.")
-
-
-
 However, much of the credit for this sleek-inspired typography should be given to the Sheffield-based design company, “Designer’s Republic”. Through their work on the wipeout video game series and various different album artworks, they popularised sleek, futuristic fonts and made them commonplace within pop culture. Colours within this distinct typography were usually very similar, often using an ice blue colour palette. As the Y2K tailored company Future Memory explained the Y2K aesthetic's ice blue palette “evoked the coolness of the y2k era's new digital world in contrast with analogue warmth.” 
 
 
