@@ -37,6 +37,10 @@ Texture within typography as a whole became increasingly important, with various
 
 The influence of Y2K aesthetics on typography is still ever-growing. It was only logical that with the resurgence of early 2000s fashion and music, elements of this futuristic movement would too. Artists such as SOPHIE, Charli XCX, A.J Cook, Hannah Diamond and many others, attempt to replicate the Y2K aesthetic not only through their sonic styles but also through their album covers and promotional material. Suddenly, this sense of design has managed to seep its way into mainstream pop culture, in a less subtle way. While it was understandably ever-present in the technological realm, the music industry seemed to have left these aesthetics behind, until suddenly they returned. 
 
+![Charli XCX's album cover for Pop 2, both the music and graphical design elements were heavily inspired by the Y2K era. ](../uploads/259517.jpg "Charli XCX's album cover for Pop 2, both the music and graphical design elements were heavily inspired by the Y2K era.")
+
+
+
 Perhaps it derives from the dire need for optimism that futurism entails, in a world that has many flaws. Whatever theory one chooses, it is clear to see that the influence of the early 2000s on typography never *really* stopped, and there is no reason to assume that this train of design will be slowing down anytime soon. In a post-pandemic world, perhaps futuristic optimism is what we need, even in subtle details such as typography and design, its presence is surely appreciated?
 
 <!--EndFragment-->
