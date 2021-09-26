@@ -21,6 +21,10 @@ My first introduction to design was through my father, who introduced me to Adob
 
 Eventually, I managed to get a solid grasp of Photoshop and became rather fascinated with typographical design. The ability to install the fonts used within my favourite franchises was an eye-opener to me and allowed me to create designs that could resemble those of the logos I saw in movies and video games. Eventually, I began to look at the world around me a lot more, becoming intrigued as to which fonts were being used by different companies. When I couldn't figure out the font, I used a website known as dafont.com, a forum that allowed you to post pictures of text where users would try to identify the font for you. Eventually, my interest in typographical design became a regular hobby of mine, waxing and waning over time depending on how busy life was and how much time I had.
 
+
+
 ![A redesign of the album cover for "Glory" by Britney Spears. ](../uploads/glory.png "A redesign of the album cover for \\\"Glory\\\" by Britney Spears. ")
+
+
 
 For now, design is still a simple hobby of mine and I still have a long way to go. As of late, I have enjoyed redesigning album covers in my free time for certain artists whom I admire, as well as creating covers for my Spotify playlists. Whilst I have become more extroverted over time, my interest in design, and specifically, typography still remains. This lasting interest is the reasoning behind this website, which acts as a place to explore the past as well as the future of typographical design.
