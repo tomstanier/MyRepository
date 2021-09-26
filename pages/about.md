@@ -11,7 +11,11 @@ tags: null
 description: null
 show: true
 ---
+## **My Background**
+
 Since you clicked here, I guess you're interested in learning more about me. My name is Thomas, I'm 19 years old and I am currently a second-year Media, Journalism and Publishing student at Oxford Brookes University. Since a very young age I have been captivated by the world of design and its many intricacies. Having grown up in the countryside, despite its beauty, I often preferred to stay indoors, discovering I was more introverted than extroverted, making me spend more time on the computer. 
+
+## **My Interest**
 
 My first introduction to design was through my father, who introduced me to Adobe Photoshop CS6. Like anyone would be, I was clueless at the start, having no idea how to navigate such a complex application. Then my Dad bought me a book that changed everything, slowly guiding me through the basics of photoshop and eventually working my way up to the more advanced features within the application. 
 
