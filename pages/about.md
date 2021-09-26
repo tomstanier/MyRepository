@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: All About Me
 image: ../uploads/1591282249304.jpg
-subtitle: "My Background and my Interests. "
+subtitle: "My Background and My Interests. "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
