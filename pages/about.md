@@ -13,7 +13,7 @@ show: true
 ---
 ## **My Background**
 
-Since you clicked here, I guess you're interested in learning more about me. My name is Thomas, I'm 19 years old and I am currently a second-year Media, Journalism and Publishing student at Oxford Brookes University. Since a very young age I have been captivated by the world of design and its many intricacies. Having grown up in the countryside, despite its beauty, I often preferred to stay indoors, discovering I was more introverted than extroverted, making me spend more time on the computer. 
+Since you clicked here, I guess you're interested in learning more about me. My name is Thomas, I'm 19 years old and I am currently a second-year Media, Journalism and Publishing student at Oxford Brookes University. Since a very young age I have been captivated by the world of design and its many intricacies. Having grown up in the countryside (pictured above) despite its beauty, I often preferred to stay indoors, discovering I was more introverted than extroverted, making me spend more time on the computer. 
 
 ## **My Interest**
 
