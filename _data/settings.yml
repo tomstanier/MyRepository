@@ -1,13 +1,13 @@
 title: Novatype
-description: Exploring the past and future of typography.
+description: Exploring the past and modern meanings of typography.
 footer_text: Copyright 2021 Thomas Stanier
 header_feature_image: ../uploads/new-project-4-.png
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 40vmax
 navbarheight: 55px
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/new-project-7-.png
+favicon: ../uploads/favicon.ico.ico
 gridlayout: true
 fixednavbar: false
 upzoom: true
