@@ -4,7 +4,8 @@ title: "The Blackletter Typeface: A Shift In Purpose"
 date: 2021-09-29T15:36:00.268Z
 image: ../uploads/new-project-2-.png
 title_color: "#ffffff"
-caption: ""
+caption: "Exploring various typefaces and fonts, their meanings and their
+  presence within modern-day society. "
 comments: false
 tags:
   - Design
