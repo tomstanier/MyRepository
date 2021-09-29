@@ -2,7 +2,7 @@
 layout: post
 title: "The Y2K Aesthetic - A Beginning Within an Ending. "
 date: 2021-09-23T22:33:06.767Z
-image: ../uploads/ascension1-1-.jpg
+image: ../uploads/new-project-3-.png
 title_color: "#ffffff"
 caption: "Y2K styled background. "
 comments: false
