@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Y2K Aesthetic - A Beginning Within an Ending. "
+title: "The Y2K Aesthetic:  A Beginning Within an Ending. "
 date: 2021-09-23T22:33:06.767Z
 image: ../uploads/new-project-5-.png
 title_color: "#ffffff"
