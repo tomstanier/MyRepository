@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Times New Roman - An Old Font in a Modern World
+title: "Times New Roman: An Old Font in a Modern World"
 date: 2021-10-05T11:53:31.866Z
 image: ../uploads/new-project.png
 title_color: "#ffffff"
