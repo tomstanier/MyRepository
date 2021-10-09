@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: All About Me
-image: ../uploads/1591282249304.jpg
-subtitle: "My Background and My Interests. "
+title: About Novatype
+image: ../uploads/new-project-13-1-.png
+subtitle: "The Rationale "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -11,20 +11,16 @@ tags: null
 description: null
 show: true
 ---
-## **My Background**
+<!--StartFragment-->
 
-Since you clicked here, I guess you're interested in learning more about me. My name is Thomas, I'm 19 years old and I am currently a second-year Media, Journalism and Publishing student at Oxford Brookes University. Since a very young age I have been captivated by the world of design and its many intricacies. Having grown up in the countryside (pictured above) despite its beauty, I often preferred to stay indoors, discovering I was more introverted than extroverted, making me spend more time on the computer. 
+Throughout time, the meanings which we have long associated with certain typefaces and fonts have gradually changed, and in many ways stayed the same. Novatype is a place to explore these changing meanings, having a focus on both the history and modern-day uses of fonts. This was the rationale behind my blog; for each article, focus upon one font or typeface, explore their history and gradually begin to talk about their place within the modern world. Within Novatype, a future-facing perspective is essential, along with the past and contemporary meanings associated with the selected form of typography, a glance into the future of these fonts is something that each article discusses. 
 
-## **My Interests**
+This sense of futurism and modernity is an integral part of Novatype and is intended not only to be reflected in the articles but also the design elements of the website. A consistency in this design is present all across the site, with a heavy focus on blue gradients and futuristic fonts. The Novatype logo is present within the favicon and logo space and utilises the font “Euphoric Heavy Regular.” This font is sleek, modern and futuristic and is imperative in shaping the theme of the website. The blue gradient is something that is heavily associated with futurism, with blue symbolising freedom, boundlessness and modernism, hence the association of blue with the Y2K aesthetic. For each article, the main image is designed to include these colours whilst also showcasing the discussed font, allowing a balance to be created between the idea of modernism and the often, old fonts that are being discussed. This allows space for uniformity within the design, whilst also giving each highlighted image its own individual space to stand out. 
 
-My first introduction to design was through my father, who introduced me to Adobe Photoshop CS6. Like anyone would be, I was clueless at the start, having no idea how to navigate such a complex application. Then my Dad bought me a book that changed everything, slowly guiding me through the basics of photoshop and eventually working my way up to the more advanced features within the application. 
+In terms of the name of the website, this too, was designed to reflect the sense of modernity that is reflected in the design. Nova stems from “Novus” a Latin word meaning new, linking to the website’s intended person, to explore type from a modern and “new” perspective, focusing on how meanings have shifted, and in some cases remained largely similar. In order to give a clear perspective on how these meanings have changed, it was essential to be able to give pop-culture related examples e.g. links to music, where possible are an easy way to showcase the importance and changing meanings of fonts to the reader, especially through the album art of famous artists, whom often help to transform the associations we give to fonts. 
 
-Eventually, I managed to get a solid grasp of Photoshop and became rather fascinated with typographical design. The ability to install the fonts used within my favourite franchises was an eye-opener to me and allowed me to create designs that could resemble those of the logos I saw in movies and video games. Eventually, I began to look at the world around me a lot more, becoming intrigued as to which fonts were being used by different companies. When I couldn't figure out the font, I used a website known as dafont.com, a forum that allowed you to post pictures of text where users would try to identify the font for you. Eventually, my interest in typographical design became a regular hobby of mine, waxing and waning over time depending on how busy life was and how much time I had.
-
-
-
-![A redesign of the album cover for "Glory" by Britney Spears. ](../uploads/glory.png "A redesign of the album cover for \\\"Glory\\\" by Britney Spears. ")
+Overall, the goals of Novatype are clear; explore the former and modern meanings of typography, evaluate the place of these fonts/typefaces from a future-facing perspective, and finally, present all of this in a consistent, modern design format, through the logo,  colour scheme, favicon, and main article images.
 
 
 
-For now, design is still a simple hobby of mine and I still have a long way to go. As of late, I have enjoyed redesigning album covers in my free time for certain artists whom I admire, as well as creating covers for my Spotify playlists. Whilst I have become more extroverted over time, my interest in design, and specifically, typography still remains. This lasting interest is the reasoning behind this website, which acts as a place to explore the past as well as the future of typographical design.
+<!--EndFragment-->
