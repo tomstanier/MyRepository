@@ -79,7 +79,31 @@ h1 {
   
 }  
 
+.favs{color:rgb(255, 255, 255);
+  font-size: 30px;
+  background: rgba(0,0,0,0.1);
+  font-family: 'Amatic SC';
+  padding:12px;
+  text-align: center;}
 
+  .websites  {color:rgb(255, 255, 255);
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    font-family:'Zen Maru Gothic', sans-serif;
+    padding:12px;
+    
+  } 
+ 
+  .rankings  {color:rgb(255, 255, 255);
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    font-family:'Zen Maru Gothic', sans-serif;
+    padding:12px;
+    
+  } 
+ 
 .btn {
   background-color: rgba(0,0,0,0.1); /* transparent */
   border: 2px solid white;
