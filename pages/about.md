@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About Novatype
-image: ../uploads/new-project-13-1-.png
+image: ../uploads/new-project-13-1-1-.png
 subtitle: "The Rationale "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
