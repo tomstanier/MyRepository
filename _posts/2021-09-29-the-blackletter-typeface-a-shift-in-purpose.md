@@ -2,7 +2,7 @@
 layout: post
 title: "The Blackletter Typeface: A Shift In Purpose"
 date: 2021-09-29T15:36:00.268Z
-image: ../uploads/new-project-12-.png
+image: ../uploads/new-project-13-1-2-.png
 title_color: "#ffffff"
 caption: "Exploring various typefaces and fonts, their meanings and their
   presence within modern-day society. "
