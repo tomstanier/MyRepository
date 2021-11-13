@@ -2,7 +2,7 @@
 layout: post
 title: "Johnston: Synonymous With London"
 date: 2021-10-23T20:10:12.753Z
-image: ../uploads/new-project-13-1-3-.png
+image: ../uploads/new-project-13-1-5-.png
 title_color: "#ffffff"
 comments: false
 ---
