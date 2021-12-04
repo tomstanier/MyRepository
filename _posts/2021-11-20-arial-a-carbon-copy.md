@@ -6,9 +6,13 @@ image: ../uploads/new-project-13-1-4-1-.png
 title_color: "#ffffff"
 comments: false
 ---
-![A comparison between Arial and Helvetica. ](https://creativepro.com/wp-content/uploads/2017/10/B.ArialvsHelvetica.png "A comparison between Arial and Helvetica. ")
+
 
 Akin to Helvetica and Times New Roman, Arial is one of the most recognisable fonts of our time. Easily accessible across a variety of platforms and programmes, Arial is often used as a default font, free of charge. But where did this cultural staple begin? 1982, to be exact, and it was created by the type foundry, Monotype. Originally made for IBM printers, the font was intended to mimic that of Helvetica, which it was designed to be metrically identical to. Akin to many sans-serif fonts, Arial was designed to be humanist, sporting low contrast between thick and thin strokes and loose letter spacing, making it more legible at smaller sizes. This was something that its basis, Helvetica was criticised for, whilst Arial seemed to excel at. Eventually the font became intertwined with Microsoft and their products, with the font being present within all versions of Microsoft Windows from Windows 3.1 onwards. 
+
+![A comparison between Arial and Helvetica. ](https://creativepro.com/wp-content/uploads/2017/10/B.ArialvsHelvetica.png "A comparison between Arial and Helvetica. ")
+
+
 
 ## **Modern Usage**
 
