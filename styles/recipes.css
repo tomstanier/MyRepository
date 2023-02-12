@@ -1,66 +1,84 @@
-/*! CSS bare bones for recipes site */
+/* CSS for recipes */
 
- html {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  background: #fff;
 }
 
-*  {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* the rest is up to you */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+  margin: 30px;
+}
 
-body{
-   font-family: 'Reenie Beanie', cursive;}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
 
-body{ background-color: rgb(255, 255, 255);}
+img {
+  max-width: 100%;
+}
 
+blockquote {
+}
 
-h1{color:rgb(0, 0, 0);
-  font-family: 'Reenie Beanie', cursive;
-text-align: center;
-padding-top: 5px;}
+.caption {
+  display: block;
+}
 
+table {
+}
 
-h2{color:rgb(0, 0, 0);
-font-family: 'Reenie Beanie', cursive;
-text-align: left;}
+td,
+th {
+}
 
-main{
-  width: 60%;
-  max-width: 850px;
-  border:1px solid purple;
-  padding: 0 12px 0 12px;
-  margin:0 auto;
-background-color: rgb(255, 161, 161);}    
+p,
+ol,
+ul {
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
 
-img{
-    width:50%;
-  float:right;}
-/* columns: 2;
-column-rule: 1px solid blue;} */
-ul{margin-left: 20px;}
-li{font-size:.8em;
-margin-bottom: 12px;
-margin-left: 20px;}
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #fff;
+  margin: 1em 0;
+}
 
-.branding{font-size: 40px;}
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
 
-.caption{ float:right;
-width:60%;
-font-size: .8em;}
+/* for a menu for all recipes */
+ul.allrecipes {
+  list-style: none;
+}
 
-footer{text-align: center;
-padding-block: 5px;
-font-family: 'Reenie Beanie', cursive;
-font-size: 12;}
-
-a:link    { color: rgb(0, 0, 0); text-decoration: none; }
-a:visited { color: rgb(0, 0, 0); text-decoration: none; }
-a:hover   { color: rgb(0, 0, 0); text-decoration: none; }
-a:active  { color: rgb(0, 0, 0); text-decoration: none; }
+.menu {
+  display: block;
+  border: 1px solid gray;
+  width: 15%;
+  font-size: 60%;
+  padding: 10px;
+  margin: 20px 0;
+}
